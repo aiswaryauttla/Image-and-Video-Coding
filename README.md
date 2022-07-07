@@ -4,7 +4,7 @@ JPEG algorithm is implemented to compress the video. The task of a video codec i
 
 ![image](https://user-images.githubusercontent.com/80693116/177886716-a57c68d2-fb92-4a54-beec-3e96e36a39e2.png)
 
-#References
+# References
 
 G. Sullivan, editor. ITU-T Recommendation H.263: Transmission of Non- Telephone
 Signals; Video Coding for Low Bit Rate Communication. ITU-T SG16, Jan. 1998.
