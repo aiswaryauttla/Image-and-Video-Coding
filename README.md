@@ -1,1 +1,3 @@
 # Image-and-Video-Coding
+
+JPEG algorithm is implemented to compress the video. The task of a video codec is to reduce the amount of data when transmitting a video. We deal with redundancy reduction which exploits repetitions or correlations within a signal. In particular we focus on Huffman coding. We further decrease the rate by introducing lossy compression (Quantization) which excludes unnecessary information from the signal. First a frame is coded without temporal prediction (I-frame) and further frames are predicted from the most recently decoded frame (P-frame). The evaluation metric used is the Rate-Distortion plot.
